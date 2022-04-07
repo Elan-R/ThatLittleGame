@@ -1,0 +1,10 @@
+{
+    "grass": "./images/grass.jpg",
+    "player": "./images/player.png",
+    "weapon": "./images/sword.png",
+    "monster": "./images/monster.webp",
+    "xscale": 1.0016,
+    "yscale": 1,
+    "weapons": 10,
+    "monsters": 15
+}
